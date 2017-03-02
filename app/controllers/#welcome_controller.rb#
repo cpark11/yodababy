@@ -1,0 +1,7 @@
+class WelcomeController < ApplicationController
+  def index #method
+  end
+
+  def about
+  end
+end
